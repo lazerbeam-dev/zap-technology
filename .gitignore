@@ -1,0 +1,18 @@
+# Ableton Live project ignores
+
+# Analysis files (auto-regenerated, safe to ignore)
+*.asd
+
+# Backups (Ableton creates these automatically)
+Backup/
+*.bak
+*.als~        # Temporary backup versions of project files
+*.cfg~        # Temporary backup versions of cfg files
+
+# Icon and metadata (not needed for project sharing)
+*.ico
+Desktop.ini
+Thumbs.db
+
+# OS cruft
+.DS_Store
